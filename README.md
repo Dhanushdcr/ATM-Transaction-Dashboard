@@ -8,10 +8,12 @@ This dashboard provides:
 
 
  Key Features
+ 
 🔹 Home Page
 
 Interactive and user-friendly interface.
 Navigation buttons to Overview and Details pages.
+
 🔹 Overview Section
 
 High-level insights on ATM transactions and financial performance.
