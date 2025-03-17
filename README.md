@@ -1,1 +1,1 @@
-# ATM-Transaction-Dashboard
+A Power BI-based dashboard designed to analyze and monitor ATM transactions, costs, revenue, and operational performance. This dashboard helps financial institutions, banks, and stakeholders track ATM efficiency, transaction patterns, and profitability across different regions.
