@@ -21,6 +21,7 @@ Total Cost, Gross Profit %, Avg. Uptime, Avg. EBILL, and Avg. Total Transactions
 Revenue by region/state (Assam, Punjab, Jammu & Kashmir, etc.).
 Financial vs. Non-Financial Transactions trends.
 Transaction Trends Over Time.
+
 🔹 Details Section
 
 Range Analysis of ATM Performance (Current & Previous Month).
